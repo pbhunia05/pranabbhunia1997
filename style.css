@@ -1,0 +1,93 @@
+body{
+  background: #9ad3bc;
+  margin: 0;
+  text-align: center;
+font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+}
+h1{
+  margin-top: 0;
+
+
+}
+
+
+/* Class Portion*/
+
+.handwriting{
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  font-weight: bold;
+}
+.block1{
+background-color:#9ad3bc;
+position: relative;
+padding-top: 140px;
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: absolute;
+  right:350px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 350px;
+  top:200px;
+}
+.grass{
+  margin-top: -280px;
+  margin-left: -10px;
+  height: auto;
+  width: 1280px;
+}
+.title{
+  color: white;
+  font-family: 'Goldman', cursive;
+  text-shadow: 3px 3px grey,3px 3px black;
+  font-size: 400%;
+}
+.college{
+  color: #7d0633;
+
+}
+.intro{
+  font-family: 'Goldman', cursive;
+  font-weight: bold;
+  font-size: 20px;
+  color: #30475e;
+  text-shadow: 1px 1px black;
+}
+.hello{
+font-family: 'Goldman', cursive;
+ font-size: 60px;
+ color: #dbf6e9;
+ text-shadow : 3px 3px #132743;
+}
+.pranab{
+  height: 200px;
+  width:200px;
+  border-radius: 50%;
+
+}
+.list-item{
+  margin: 0;
+}
+.gif{
+  height: 250px;
+  width:250px;
+}
+.icon{
+  height: 150px;
+  width: 270px;
+}
+.contact{
+  font-family: Britannic Bold;
+  color: #1d2d50;
+  font-size: 30px;
+}
+.iconx{
+  margin-left: 30px;
+}
